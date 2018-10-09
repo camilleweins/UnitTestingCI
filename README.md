@@ -1,5 +1,7 @@
 # Unit Testing and Continuous Integration
 
+[![CircleCI](https://circleci.com/gh/NHibiki-NYU/UnitTestingCI.svg?style=svg)](https://circleci.com/gh/NHibiki-NYU/UnitTestingCI)
+
 This repository is for sudents in the course to experiment with unit testing and continuous integration. It uses the testing framework [Jest](https://jestjs.io/) and [CircleCI](https://circleci.com/) as described in the video tutorials linked below.
 
 This repo is forked from [CodingTrain/TestingTestTest](https://github.com/CodingTrain/TestingTestTest).
